@@ -1,0 +1,22 @@
+﻿#logo {
+    text-decoration-line: overline;
+    color: silver;
+    font-size: 128px;
+    text-align: center;
+    text-decoration-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background-image: url("./image/GrassBlock1.jpg");
+}
+
+#MC_Shot1 {
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
+
+
+
+
