@@ -1,0 +1,49 @@
+﻿
+body {
+	 background-image: url("./image/Jungle.jpg");
+}
+#ARK_logo {
+	font-size:200px;
+	text-align: center;
+	margin-top: 10px;
+	color:red;
+	background-image: url("./image/ARK_Logo.jpg");
+}
+
+#ARK_Shot1 {
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
+
+#ARK_Shot2{
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
+
+
+#ARK_Shot3{
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
+
+
+#ARK_Shot4{
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
+
+
+#ARK_Shot5{
+    font-size:50px;
+	text-align: center;
+	color:white;
+		background-image: url("./image/Backroun_Image.jpg");
+}
