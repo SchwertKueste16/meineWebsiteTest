@@ -1,0 +1,87 @@
+﻿
+#logo {
+    Color: #40F700;
+    font-size: 128px;
+    display: inline-block;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:12px;
+    
+
+}
+
+#top {
+    text-align: center;
+}
+
+#navigation a {
+    color: #60FF8E;
+    
+    background-color:black;
+    padding:5px;
+    font-size:25px;
+    margin-top:40px;
+    margin:30px;
+}
+
+ #navigation a:hover {
+  color: darkolivegreen;
+  padding: 4px;
+  font-size: 20px;
+ }
+
+body {
+    background-image: url("./image/logoB.jpg");
+    height: 100%;
+}
+html{
+    height: 100%;
+    width:100%;
+}
+#main {
+    color: #A3E990;
+    font-size: 15px;
+    text-align: center;
+    margin-top:400px;
+    background-color: black;
+    padding: 20px;
+    margin-left: 50px;
+}
+#MC-image {
+   margin-left:40%;
+   margin-top:100px;
+  
+}
+#Ark-image{
+  margin-left: 40%;
+    margin-top: 100px;
+ 
+}
+#besch-Minecraft {
+    color: antiquewhite;
+    font-size: 30px;
+    background-color: black;
+    right: 20px;
+    text-align:center;
+
+}
+#besch-Ark {
+    color:crimson;
+    font-size: 30px;
+    background-color: black;
+    right: 20px;
+    text-align: center;
+}
+#Ac-Image {
+    margin-left: 40%;
+    margin-top: 100px;
+    color:orange;
+   ;
+}
+#besch-AC {
+    color: lightyellow;
+    font-size: 30px;
+    background-color: black;
+    right: 20px;
+    text-align: center;
+}
